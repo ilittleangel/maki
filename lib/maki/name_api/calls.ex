@@ -1,4 +1,4 @@
-defmodule NameApi.Calls do
+defmodule Maki.NameApi.Calls do
   require Logger
 
   @agify "https://api.agify.io/?name="
